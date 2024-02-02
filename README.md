@@ -38,7 +38,7 @@
 
 ## My Highlighted Archived Projects
 
-- [The Grand Gulf Nuclear Plan Zone Status Display](https://gmossy.wordpress.com/)
+- [The Grand Gulf Nuclear Plan Zone Status Display](archived_projects/zsd-README.md)
 - [General Archived Projects Blog](https://gmossy.wordpress.com/)
 
 ## My Open Source Contributions
