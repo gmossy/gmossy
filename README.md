@@ -12,7 +12,10 @@
 - [Flower Image Image classification using Pytorch models, May 2019](https://github.com/gmossy/flower-image-classifier-pytorch)
 - [What is Gradient Descent](universityprojects/Udacity ML Nanodegree/gradient-descent/._GradientDescent (1).ipynb)
 
-## My Publicationsn
+## LaTech EE College Projects
+- [General Archived Projects Blog](https://gmossy.wordpress.com/)
+
+## My Publications
 
 - [IASTED ROBOTICS and AUTOMATION 1984]([Platform Control System PCS Design for an Autonomous Robot](publications/iasted/IASTED.pdf))
 - [The Tech Talk]([Mossy, Zerkus present papers](publications/iasted/IASTED-2.pdf))
