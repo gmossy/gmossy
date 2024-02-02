@@ -1,6 +1,6 @@
 ## My Reasearch Hobby Projects
-
-- 
+- [My Inmoov Robot]([Inmoov Head-Eyes-Mouth](publications/iasted/IASTED-2.pdf))
+- [Spot Micro Dog]([Inmoov Head-Eyes-Mouth](publications/iasted/IASTED-2.pdf))
 
 ## Frederick Community College 
 - [Smart Wearables](https://gmossy.wordpress.com/)
@@ -9,6 +9,8 @@
 ## My Udacity Machine Learning Projects
 
 - [Capstone - Udacity ML - Human Activity Recognition](https://github.com/gmossy/human-activity-recognition/blob/master/Human%20Activity%20Recognizer%20A%20Capstone%20Project%20for%20Machine%20Learning%20Nanodegree%20at%20Udacity.pdf)
+- [Flower Image Image classification using Pytorch models, May 2019](https://github.com/gmossy/flower-image-classifier-pytorch)
+- [What is Gradient Descent](universityprojects/Udacity ML Nanodegree/gradient-descent/._GradientDescent (1).ipynb)
 
 ## My Publicationsn
 
@@ -22,9 +24,9 @@
 - [General Archived Projects Blog](https://gmossy.wordpress.com/)
 
 ## My Open Source Contributions
-
 - [FCCRobot](https://github.com/gmossy)
 - [Arduino_Projects](https://github.com/gmossy)
+- [Arduino_Accelerometer-eDice](https://github.com/gmossy/Accelerometer-eDice/blob/master/The%20Arduino%20Dice%20Project.pdf)
 
 # My Stats
 
