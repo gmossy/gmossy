@@ -13,6 +13,9 @@
 - [What is Gradient Descent](universityprojects/Udacity ML Nanodegree/gradient-descent/._GradientDescent (1).ipynb)
 
 ## LaTech EE College Projects
+- [Louisiana Tech Engineers Week Projects](universityprojects/VoiceRecognition/latech-voicerecognition/latech-voice-README.md)
+
+
 - [General Archived Projects Blog](https://gmossy.wordpress.com/)
 
 ## My Publications
