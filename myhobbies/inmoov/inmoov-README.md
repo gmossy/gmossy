@@ -1,5 +1,4 @@
 
-]
 <img src="IMG_3852.JPG"/>
 
 The InMoov robot is a life-sized marvel, not forged in metal, but born from plastic in your very own 3D printer. This open-source project, conceived by artist Gael Langevin, empowers anyone with the desire and tinkering spirit to bring a humanoid robot to life. Imagine limbs constructed layer by layer, powered by servos and controlled by Arduino microcontrollers. InMoov isn't just about the build; it's a platform for creativity. Breathe life into it with AI and machine learning, allowing it to converse, move with purpose, and even express emotions. This isn't science fiction; it's a tangible future where technology and imagination intersect, democratizing robotics and placing the power to create a thinking, moving machine in your hands. So, fire up your 3D printer, join the vibrant InMoov community, and be part of building the robots of tomorrow, today.
