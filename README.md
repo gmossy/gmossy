@@ -1,6 +1,10 @@
-## My Reasearch Projects
+## My Reasearch Hobby Projects
 
 - 
+
+## Frederick Community College 
+- [Smart Wearables](https://gmossy.wordpress.com/)
+
 
 ## My Udacity Machine Learning Projects
 
@@ -15,7 +19,7 @@
 
 ## My Highlighted Archived Projects
 
-- [General Archived Projects](https://gmossy.wordpress.com/)
+- [General Archived Projects Blog](https://gmossy.wordpress.com/)
 
 ## My Open Source Contributions
 
