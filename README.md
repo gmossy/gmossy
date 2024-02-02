@@ -1,10 +1,12 @@
 ## My Reasearch Hobby Projects
+
 - [My Inmoov Robot]([Inmoov Head-Eyes-Mouth](myhobbies/inmoov/inmoov-README.md)
 - [Inmoov Robot]([Inmoov Home](<https://inmoov.fr/>]
 - [Spot Micro Dog]([Information](https://spotmicroai.readthedocs.io/en/latest/)
 - [Smart Wearables](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/1.28inch-touch-lcd.htm)
 
 ## Frederick Community College Workshops I teach
+
 - [Smart Wearables]
 - [3D Printing]
 - [Robotics]
@@ -18,9 +20,10 @@
 
 - [Capstone - Udacity ML - Human Activity Recognition](https://github.com/gmossy/human-activity-recognition/blob/master/Human%20Activity%20Recognizer%20A%20Capstone%20Project%20for%20Machine%20Learning%20Nanodegree%20at%20Udacity.pdf)
 - [Flower Image Image classification using Pytorch models, May 2019](https://github.com/gmossy/flower-image-classifier-pytorch)
-- [What is Gradient Descent](universityprojects/Udacity ML Nanodegree/gradient-descent/._GradientDescent (1).ipynb)
+
 
 ## LaTech EE College Projects
+
 - [Louisiana Tech Engineers Week Projects](universityprojects/VoiceRecognition/latech-voicerecognition/latech-voice-README.md)
 
 
