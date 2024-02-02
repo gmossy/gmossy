@@ -1,8 +1,6 @@
 
-![LaTech 1st Place Project Voice Reconition System](universityprojects/VoiceRecognition/latech-voicerecognition/scan0037.jpg)
-![My Timex Sinclar Voice Rec System](universityprojects/VoiceRecognition/latech-voicerecognition/scan0042.jpg)
-
-
+![LaTech 1st Place Project Voice Reconition System](scan0037.jpg "width=200px" "height=150px")
+![My Timex Sinclar Voice Rec System](scan0042.jpg "width=200px" "height=150px")
 
 
 While the Timex Sinclair computers had some peripherals and software related to sound and speech, they weren't capable of true voice recognition in the way modern computers do. Here's what they could offer:
