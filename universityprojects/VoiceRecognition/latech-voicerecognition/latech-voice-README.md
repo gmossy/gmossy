@@ -1,3 +1,10 @@
+
+![LaTech 1st Place Project Voice Reconition System](universityprojects/VoiceRecognition/latech-voicerecognition/scan0037.jpg)
+![My Timex Sinclar Voice Rec System](universityprojects/VoiceRecognition/latech-voicerecognition/scan0042.jpg)
+
+
+
+
 While the Timex Sinclair computers had some peripherals and software related to sound and speech, they weren't capable of true voice recognition in the way modern computers do. Here's what they could offer:
 
 1. Speech Synthesis:
@@ -20,4 +27,4 @@ Overall:
 While the Timex Sinclair computers could generate and interact with sounds to some extent, they lacked the processing power and sophisticated algorithms needed for true voice recognition as we know it today. The available options were limited to pre-recorded sounds, basic pattern matching for a small number of trained words, and simple sound processing.
 
 universityprojects/VoiceRecognition/latech-voicerecognition/scan0037.jpg
-universityprojects/VoiceRecognition/latech-voicerecognition/scan0042.jpg
+
