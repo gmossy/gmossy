@@ -1,9 +1,16 @@
-### About Me👋
-- [email:](gmossy@gmail.com)
+## My Reasearch Projects
+
+- 
 
 ## My Udacity Machine Learning Projects
 
 - [Capstone - Udacity ML - Human Activity Recognition](https://github.com/gmossy/human-activity-recognition/blob/master/Human%20Activity%20Recognizer%20A%20Capstone%20Project%20for%20Machine%20Learning%20Nanodegree%20at%20Udacity.pdf)
+
+## My Publicationsn
+
+- [IASTED ROBOTICS and AUTOMATION 1984]([Platform Control System PCS Design for an Autonomous Robot](publications/iasted/IASTED.pdf))
+- [The Tech Talk]([Mossy, Zerkus present papers](publications/iasted/IASTED-2.pdf))
+- [FCCRobot](https://github.com/gmossy)
 
 
 ## My Highlighted Archived Projects
@@ -17,11 +24,11 @@
 
 # My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deleomike&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmossy&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deleomike&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gmossy&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deleomike&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmossy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gmossy/gmossy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
