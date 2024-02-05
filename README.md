@@ -5,6 +5,9 @@
 - [Spot Micro Dog]([Information](https://spotmicroai.readthedocs.io/en/latest/)
 - [Smart Wearables](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/1.28inch-touch-lcd.htm)
 
+### Large Language Models
+- genai/llm/llm-README.md
+
 ## Frederick Community College Workshops I teach
 
 - [Smart Wearables]
