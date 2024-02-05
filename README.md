@@ -1,17 +1,17 @@
 ## My Reasearch Hobby Projects
-- [My Inmoov Robot]([Inmoov Head-Eyes-Mouth](myhobbies/inmoov/inmoov-README.md)
-- [Inmoov Robot]([Inmoov Home](<https://inmoov.fr/>]
-- [Spot Micro Dog]([Information](https://spotmicroai.readthedocs.io/en/latest/)
+- [My Inmoov Robot](myhobbies/inmoov/inmoov-README.md)
+- [Inmoov Robot](<https://inmoov.fr/>)
+- [Spot Micro Dog](https://spotmicroai.readthedocs.io/en/latest/)
 - [Smart Wearables](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/1.28inch-touch-lcd.htm)
 
 ### Large Language Models
-- [LLM links]([LLM Links](genai/llm/llm-README.md
+- [LLM links](genai/llm/llm-README.md)
 
 ## Frederick Community College Workshops I teach
 
 - [Smart Wearables]
 - [3D Printing]
-- [Robotics]
+- [Robotics][FCC Makerbot](https://github.com/gmossy/MKR106)
 - [Build a Microcontroller]
 - [Arduino I]
 - [Arduino II]
