@@ -3,6 +3,7 @@
 - [Inmoov Robot](<https://inmoov.fr/>)
 - [Spot Micro Dog](https://spotmicroai.readthedocs.io/en/latest/)
 - [Smart Wearables](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/1.28inch-touch-lcd.htm)
+- Unity Game Development
 
 ### Large Language Models
 - [LLM links](genai/llm/llm-README.md)
