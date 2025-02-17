@@ -1,3 +1,14 @@
+## Frederick Community College Workshops I teach
+
+- Learning to Communicate with AI: Prompt Engineering Learning to Communicate with AI: Prompt Engineering
+- [Smart Wearables]
+- [3D Printing]
+- [Robotics][FCC Makerbot](https://github.com/gmossy/MKR106)
+- [Build a Microcontroller]
+- [Arduino I]
+- [Arduino II]
+- [Arduino Motor Control]
+
 ## My Reasearch Hobby Projects
 - [My Inmoov Robot](myhobbies/inmoov/inmoov-README.md)
 - [Inmoov Robot](<https://inmoov.fr/>)
@@ -7,17 +18,6 @@
 
 ### Large Language Models
 - [LLM links](genai/llm/llm-README.md)
-
-## Frederick Community College Workshops I teach
-
-- [Smart Wearables]
-- [3D Printing]
-- [Robotics][FCC Makerbot](https://github.com/gmossy/MKR106)
-- [Build a Microcontroller]
-- [Arduino I]
-- [Arduino II]
-- [Arduino Motor Control]
-- [coming: - [Introduction to AI]
 
 ## My Udacity Machine Learning Projects
 - [Capstone - Udacity ML - Human Activity Recognition](https://github.com/gmossy/human-activity-recognition/blob/master/Human%20Activity%20Recognizer%20A%20Capstone%20Project%20for%20Machine%20Learning%20Nanodegree%20at%20Udacity.pdf)
