@@ -1,6 +1,6 @@
 ## Frederick Community College Workshops I teach
 
-- Learning to Communicate with AI: Prompt Engineering Learning to Communicate with AI: Prompt Engineering
+- Learning to Communicate with AI: Prompt Engineering Learning to Communicate with AI: Course: CMS376
 - [Smart Wearables]
 - [3D Printing]
 - [Robotics][FCC Makerbot](https://github.com/gmossy/MKR106)
