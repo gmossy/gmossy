@@ -4,7 +4,7 @@
 
 **Generative AI & Agentic AI Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gmossy/)
 [![GitHub](https://img.shields.io/badge/GitHub-gmossy-181717?logo=github)](https://github.com/gmossy)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![AI](https://img.shields.io/badge/AI-Generative%20%26%20Agentic-ff69b4?logo=openai)
@@ -37,6 +37,7 @@
 ### Frederick Python
 Repository by month:
 - [2025 June](https://github.com/gmossy/Frederick_Python/tree/main/2025/June-11)
+    - [June Presentations](https://github.com/gmossy/Frederick_Python/tree/main/2025/June-11/presentations)
 
 ### Generative AI Resources
 - [RAG Voice Agent (ai-engineering-hub)](https://github.com/patchy631/ai-engineering-hub/tree/main/rag-voice-agent)
