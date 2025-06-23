@@ -40,7 +40,9 @@ Repository by month:
     - [June Presentations](https://github.com/gmossy/Frederick_Python/tree/main/2025/June-11/presentations)
 
 ### Generative AI Resources
-- [RAG Voice Agent (ai-engineering-hub)](https://github.com/patchy631/ai-engineering-hub/tree/main/rag-voice-agent)
+- 🚀 **[ai-engineering-hub (RAG Voice Agent)](https://github.com/patchy631/ai-engineering-hub/tree/main/rag-voice-agent)** – Cutting-edge resources and tools for Retrieval-Augmented Generation and agentic workflows.
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) – Curated list of Large Language Model resources and projects.
+- [Awesome MCP Servers](https://mcpservers.org/) – A collection of servers for the Model Context Protocol.
 - [LLM links](genai/llm/llm-README.md)
 
 ### College & Workshop Projects
